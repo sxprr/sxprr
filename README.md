@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sxprr
-- 👀 I’m interested in Unity and C#
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on Unity games
+- 👋 Hi, My name is Jawad
+- 👀 I’m currently interested in developing video games.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Unity games, as well popular PC Mods such as GTA V's Chaos Mod.
 - 📫 How to reach me, @SXPRR
 
 <!---
